@@ -3,6 +3,9 @@
     "version": "1.0.0",
     "description": "Support Ticket App",
     "main": "index.js",
+    "engines": {
+        "node": "18.12.1"
+    },
     "scripts": {
         "start": "node server/server.js",
         "server": "nodemon server/server.js",
