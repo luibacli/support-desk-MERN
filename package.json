@@ -4,7 +4,8 @@
     "description": "Support Ticket App",
     "main": "index.js",
     "engines": {
-        "node": "18.12.1"
+        "node": "18.12.1",
+        "npm": "9.2.0"
     },
     "scripts": {
         "start": "node server/server.js",
